@@ -1,0 +1,10 @@
+[
+    {"nama": "Bunga Anggrek", "namaLatin": "Orchid", "imageId": "Bunga Anggrek"},
+    {"nama": "Bunga Kertas", "namaLatin": "Bougenville", "imageId": "Bunga Kertas"},
+    {"nama": "Bunga Matahari", "namaLatin": "Sunflower", "imageId": "Bunga Matahari"},
+    {"nama": "Bunga Mawar", "namaLatin": "Mawar", "imageId": "Bunga Mawar"},
+    {"nama": "Bunga Melati", "namaLatin": "Jasmine", "imageId": "Bunga Melati"},
+    {"nama": "Bunga Pukul Empat", "namaLatin": "Mirabilis Jalapa", "imageId": "Bunga Pukul Empat"},
+    {"nama": "Bunga Snowdrop", "namaLatin": "Galanthus", "imageId": "Bunga Snowdrop"},
+    {"nama": "Bunga Violet", "namaLatin": "Pansy", "imageId": "Bunga Violet"}
+]
